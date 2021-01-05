@@ -1,11 +1,18 @@
-## RPA_Appointment_Fixing_bot
+# What is RPA? 
+Robotic process automation (RPA) occurs when basic tasks are automated through software or hardware systems that function 
+across a variety of applications, just as human workers do. The software or robot can be taught a workflow with multiple 
+steps and applications, such as taking received forms, sending a receipt message, checking the form for completeness, filing
+the form in a folder, and updating a spreadsheet with the name of the form, the date filed, and so on. RPA software is designed 
+to reduce the burden for employees of completing repetitive, simple tasks.
 
-All the details and explanation is givien in the presentation.
+## Key Takeways
+- Robotic process automation (RPA) refers to software that can be easily programmed to do basic, repetitive tasks across 
+applications.
 
-## What is RPA? 
-Robotic process automation (RPA) occurs when basic tasks are automated through software or hardware systems that 
-function across a variety of applications, just as human workers do. ... RPA software is designed to reduce the 
-burden for employees of completing repetitive, simple tasks.
+- RPA creates and deploys a software robot with the ability to launch and operate other software.
+
+- Designed primarily for office-type functions, RPA works like a digital assistant, doing routine onerous tasks that would 
+otherwise eat up employees' time.
 
 ## Problem Statement:
 In the Hospitals, there is a vast number of patients coming daily to get their health issues resolved, 
@@ -27,6 +34,7 @@ in the right manner.
    ● Improved consistency and quality 
    ● Enhanced throughput
    ● These will save time
-   
- 
+
+## RPA_Appointment_Fixing_bot
+ All the details and explanation is givien in the presentation.
 
