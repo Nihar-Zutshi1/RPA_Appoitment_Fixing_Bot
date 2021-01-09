@@ -1,4 +1,4 @@
-# What is RPA? 
+## What is RPA? 
 Robotic process automation (RPA) occurs when basic tasks are automated through software or hardware systems that function 
 across a variety of applications, just as human workers do. The software or robot can be taught a workflow with multiple 
 steps and applications, such as taking received forms, sending a receipt message, checking the form for completeness, filing
