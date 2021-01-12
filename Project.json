@@ -17,7 +17,7 @@
     "excludedLoggedData": [
       "Private:*",
       "*password*"
-    ]
+      }
   },
   "projectType": "Workflow",
   "libraryOptions": {
