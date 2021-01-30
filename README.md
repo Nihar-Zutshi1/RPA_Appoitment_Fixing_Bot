@@ -3,7 +3,7 @@ Robotic process automation (RPA) occurs when basic tasks are automated through s
 across a variety of applications, just as human workers do. The software or robot can be taught a workflow with multiple 
 steps and applications, such as taking received forms, sending a receipt message, checking the form for completeness, filing
 the form in a folder, and updating a spreadsheet with the name of the form, the date filed, and so on. RPA software is designed 
-to reduce the burden for employees of completing repetitive, simple tasks.
+to reduce the burden for employees of completing repetitive, simple tasks..
 
 [alt text] https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn1.expresscomputer.in%2Fwp-content%2Fuploads%2F2019%2F12%2F04110923%2FRPA-Business.jpg&imgrefurl=https%3A%2F%2Fwww.expresscomputer.in%2Fnews%2Fdo-you-have-a-privileged-access-management-strategy-for-rpa%2F49505%2F&tbnid=YmKsY6pG2wW-QM&vet=12ahUKEwiazbnXorLuAhXD2nMBHaVTCLsQMygCegUIARDQAQ..i&docid=AEoertReRtaNbM&w=750&h=430&q=RPA&ved=2ahUKEwiazbnXorLuAhXD2nMBHaVTCLsQMygCegUIARDQAQ
 
