@@ -47,6 +47,7 @@
       <AssemblyReference>UiPath.Excel</AssemblyReference>
       <AssemblyReference>UiPath.Mail</AssemblyReference>
       <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
   <Sequence sap:VirtualizedContainerService.HintSize="526,2356" sap2010:WorkflowViewState.IdRef="Sequence_1">
@@ -91,6 +92,7 @@
         <ui:InputDialog Options="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="334,93" sap2010:WorkflowViewState.IdRef="InputDialog_2" IsPassword="False" Label="Please Enter the Phone Number" Title="Phone Number">
           <ui:InputDialog.Result>
             <OutArgument x:TypeArguments="x:String">[strPhoneNO]</OutArgument>
+            
           </ui:InputDialog.Result>
         </ui:InputDialog>
         <ui:InputDialog Options="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="334,93" sap2010:WorkflowViewState.IdRef="InputDialog_4" IsPassword="False" Label="Please Enter Symptoms ?" Title="Symotoms">
@@ -123,6 +125,7 @@
           </Assign.To>
           <Assign.Value>
             <InArgument x:TypeArguments="x:Object">[strSymptoms]</InArgument>
+            
           </Assign.Value>
         </Assign>
         <ui:AddDataRow ArrayRow="{x:Null}" DataRow="[drRow]" DataTable="[dtAppointment]" DisplayName="Add Data Row" sap:VirtualizedContainerService.HintSize="334,23" sap2010:WorkflowViewState.IdRef="AddDataRow_1" />
