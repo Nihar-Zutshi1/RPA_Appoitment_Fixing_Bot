@@ -5,7 +5,7 @@ steps and applications, such as taking received forms, sending a receipt message
 the form in a folder, and updating a spreadsheet with the name of the form, the date filed, and so on. RPA software is designed 
 to reduce the burden for employees of completing repetitive, simple tasks..
 
-[RPA-Business](https://user-images.githubusercontent.com/59330701/120109093-9f28e280-c185-11eb-86a9-69e8fef98d4d.jpg)
+<a href="https://user-images.githubusercontent.com/59330701/120109093-9f28e280-c185-11eb-86a9-69e8fef98d4d.jpg"
 
 ## Key Takeways
 - Robotic process automation (RPA) refers to software that can be easily programmed to do basic, repetitive tasks across 
